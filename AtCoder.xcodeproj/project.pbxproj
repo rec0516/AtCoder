@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		C51515B329FB7AD4000D2C0D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51515B229FB7AD4000D2C0D /* main.swift */; };
+		C51515BC29FB847E000D2C0D /* Template.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51515BA29FB847E000D2C0D /* Template.swift */; };
+		C51515BD29FB847E000D2C0D /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51515BB29FB847E000D2C0D /* Sample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,9 @@
 /* Begin PBXFileReference section */
 		C51515AF29FB7AD4000D2C0D /* AtCoder */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AtCoder; sourceTree = BUILT_PRODUCTS_DIR; };
 		C51515B229FB7AD4000D2C0D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C51515B929FB8467000D2C0D /* abc200 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = abc200; sourceTree = "<group>"; };
+		C51515BA29FB847E000D2C0D /* Template.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Template.swift; sourceTree = "<group>"; };
+		C51515BB29FB847E000D2C0D /* Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				C51515B129FB7AD4000D2C0D /* AtCoder */,
+				C51515B929FB8467000D2C0D /* abc200 */,
 				C51515B029FB7AD4000D2C0D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,6 +64,8 @@
 			isa = PBXGroup;
 			children = (
 				C51515B229FB7AD4000D2C0D /* main.swift */,
+				C51515BB29FB847E000D2C0D /* Sample.swift */,
+				C51515BA29FB847E000D2C0D /* Template.swift */,
 			);
 			path = AtCoder;
 			sourceTree = "<group>";
@@ -121,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C51515B329FB7AD4000D2C0D /* main.swift in Sources */,
+				C51515BD29FB847E000D2C0D /* Sample.swift in Sources */,
+				C51515BC29FB847E000D2C0D /* Template.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
