@@ -30,7 +30,6 @@
 		C51515B929FB8467000D2C0D /* abc200 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = abc200; sourceTree = "<group>"; };
 		C51515BA29FB847E000D2C0D /* Template.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Template.swift; sourceTree = "<group>"; };
 		C51515BB29FB847E000D2C0D /* Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
-		C51515BE29FB8BFE000D2C0D /* memo.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = memo.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +66,6 @@
 				C51515B229FB7AD4000D2C0D /* main.swift */,
 				C51515BB29FB847E000D2C0D /* Sample.swift */,
 				C51515BA29FB847E000D2C0D /* Template.swift */,
-				C51515BE29FB8BFE000D2C0D /* memo.md */,
 			);
 			path = AtCoder;
 			sourceTree = "<group>";
